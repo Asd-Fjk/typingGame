@@ -1,0 +1,29 @@
+.div {
+    background-color: black;
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    border-radius: 50px;
+}
+.basic {
+    line-height: 50px;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+    background-color: black;
+    color: greenyellow;
+    border-radius: 30px;
+    border: double 5px greenyellow;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    user-select: none;
+}
+.finish {
+    color: darkorchid;
+    border-radius: 30px;
+    border: double 5px darkorchid;
+}
+.wrong {
+    background-color: greenyellow;
+}
