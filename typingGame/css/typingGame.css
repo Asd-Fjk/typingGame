@@ -1,0 +1,23 @@
+.div {
+    margin: auto;
+    width: 600px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 40px;
+}
+.p {
+    margin-right: auto;
+    margin-left: auto;
+    width: 550px;
+    font-size: 25px;
+    color: skyblue; 
+    border: double 5px skyblue;
+    border-radius: 25px;
+    letter-spacing: 2px;
+    user-select: none;
+}
+.wrong {
+    background-color: skyblue;
+}
